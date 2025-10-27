@@ -1,0 +1,4 @@
+python-binance==1.0.19
+pandas==2.2.3
+prettytable
+requests
